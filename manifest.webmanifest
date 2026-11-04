@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "루틴 퀘스트",
+  "short_name": "루틴퀘스트",
+  "description": "오늘의 루틴이 내일의 모험이 된다. 나만의 운동·식사 기록 RPG.",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#101923",
+  "theme_color": "#101c28",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
